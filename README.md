@@ -47,10 +47,10 @@ python pong.py
 # Estrutura do Projeto
 - pong.py: Contém o código-fonte do jogo Pong.
 - requirements.txt: Lista de dependências necessárias para executar o projeto.
-- README.md: Este arquivo, com instruções de configuração e execução
+- README.md: Arquivo com instruções de configuração e execução
 
 # Captura de Tela
-![alt text](image.png)
+![alt text](img/image.png)
 
 # Licença
 Este projeto está licenciado sob a licença MIT. 
